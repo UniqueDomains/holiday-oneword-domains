@@ -69,8 +69,8 @@ print(df.head())
 | live.holiday    | premium   | $82.50    | $82.50        | 108            | 56     | 4      | name.com          |
 | alpha.holiday   | available | $9.99     | $83.99        | 90             | 53     | 5      | name.com          |
 | space.holiday   | resell    | —         | —             | 80             | 61     | 5      | Spaceship, Inc.   |
-| digital.holiday | premium   | $123.75   | $123.75       | 100            | 50     | 7      | name.com          |
-| design.holiday  | available | $9.99     | $83.99        | 108            | 50     | 6      | name.com          |
+| digital.holiday | premium   | $123.75   | $123.75       | 100            | 49     | 7      | name.com          |
+| design.holiday  | available | $9.99     | $83.99        | 108            | 49     | 6      | name.com          |
 | pay.holiday     | resell    | —         | —             | 84             | 60     | 3      | Sav.com, LLC - 38 |
 | all.holiday     | premium   | $500      | $500          | 88             | 48     | 3      | name.com          |
 | clear.holiday   | available | $9.99     | $83.99        | 90             | 49     | 5      | name.com          |
@@ -81,7 +81,7 @@ print(df.head())
 | nice.holiday    | premium   | $250      | $250          | 86             | 44     | 4      | name.com          |
 | snap.holiday    | available | $9.99     | $83.99        | 90             | 46     | 4      | name.com          |
 | search.holiday  | resell    | —         | —             | 70             | 57     | 6      | Dynadot Inc       |
-| custom.holiday  | premium   | $250      | $250          | 110            | 39     | 6      | name.com          |
+| direct.holiday  | premium   | $250      | $250          | 104            | 40     | 6      | name.com          |
 | creator.holiday | available | $9.99     | $83.99        | 70             | 45     | 7      | name.com          |
 | good.holiday    | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC      |
 
