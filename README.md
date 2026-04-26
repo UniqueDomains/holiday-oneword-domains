@@ -1,22 +1,22 @@
-# Available .HOLIDAY One-Word Domains (9,570)
+# Available .HOLIDAY One-Word Domains (11,985)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C571%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C570%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C985%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .holiday one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .holiday one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,985 domains** on the canonical page below.
 
-**Public extract:** 9,571 rows · **Live catalog:** 9,570 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,985 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/holiday`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .HOLIDAY one-word doma
 
 ### Files
 
-- `holiday.csv` — public CSV extract (9,571 rows)
-- `holiday.json` — public JSON extract (9,571 rows)
+- `holiday.csv` — public CSV extract (1,000 rows)
+- `holiday.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| data.holiday    | available | $81.98    | —             | 70             | 56     | 4      | namecheap         |
-| news.holiday    | resell    | —         | —             | 100            | 64     | 4      | Sav.com, LLC - 38 |
-| live.holiday    | premium   | $82.50    | $82.50        | 108            | 56     | 4      | name.com          |
-| alpha.holiday   | available | $9.99     | $83.99        | 90             | 53     | 5      | name.com          |
-| space.holiday   | resell    | —         | —             | 80             | 61     | 5      | Spaceship, Inc.   |
-| digital.holiday | premium   | $123.75   | $123.75       | 100            | 49     | 7      | name.com          |
-| design.holiday  | available | $9.99     | $83.99        | 108            | 49     | 6      | name.com          |
-| pay.holiday     | resell    | —         | —             | 84             | 60     | 3      | Sav.com, LLC - 38 |
-| all.holiday     | premium   | $500      | $500          | 88             | 48     | 3      | name.com          |
-| clear.holiday   | available | $9.99     | $83.99        | 90             | 49     | 5      | name.com          |
-| sex.holiday     | resell    | —         | —             | 98             | 59     | 3      | Sav.com, LLC      |
-| wow.holiday     | premium   | $82.50    | —             | 80             | 46     | 3      | name.com          |
-| only.holiday    | available | $9.99     | $83.99        | 110            | 46     | 4      | name.com          |
-| the.holiday     | resell    | —         | —             | 98             | 58     | 3      | Porkbun LLC       |
-| nice.holiday    | premium   | $250      | $250          | 86             | 44     | 4      | name.com          |
-| snap.holiday    | available | $9.99     | $83.99        | 90             | 46     | 4      | name.com          |
-| search.holiday  | resell    | —         | —             | 70             | 57     | 6      | Dynadot Inc       |
-| direct.holiday  | premium   | $250      | $250          | 104            | 40     | 6      | name.com          |
-| creator.holiday | available | $9.99     | $83.99        | 70             | 45     | 7      | name.com          |
-| good.holiday    | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC      |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| WiFi.holiday         | available | $81.98    | —             | 83             | 37     | 5      | namecheap           |
+| net.holiday          | resell    | —         | —             | 76             | 53     | 3      | Dynadot Inc         |
+| jobs.holiday         | premium   | $123.75   | —             | 79             | 42     | 4      | name.com            |
+| tokens.holiday       | available | $9.99     | —             | 51             | 36     | 6      | name.com            |
+| Books.holiday        | resell    | —         | —             | 52             | 49     | 5      | united-domains GmbH |
+| homes.holiday        | premium   | $250      | —             | 86             | 34     | 5      | name.com            |
+| aliens.holiday       | available | $9.99     | —             | 56             | 35     | 6      | name.com            |
+| solutions.holiday    | premium   | $123.75   | —             | 56             | 31     | 9      | name.com            |
+| spectra.holiday      | available | $9.99     | —             | 62             | 34     | 7      | name.com            |
+| shops.holiday        | premium   | $500      | —             | 64             | 24     | 5      | name.com            |
+| etc.holiday          | available | $9.99     | —             | 58             | 34     | 3      | name.com            |
+| holidays.holiday     | premium   | $500      | —             | 78             | 23     | 8      | name.com            |
+| William.holiday      | available | $81.98    | —             | 74             | 31     | 7      | namecheap           |
+| products.holiday     | premium   | $250      | —             | 60             | 23     | 8      | name.com            |
+| inspiration.holiday  | available | $9.99     | —             | 88             | 30     | 11     | name.com            |
+| apartments.holiday   | premium   | $242      | $242          | 60             | 21     | 10     | namesilo            |
+| SanDiego.holiday     | available | $9.99     | —             | 74             | 29     | 9      | name.com            |
+| stores.holiday       | premium   | $500      | —             | 62             | 20     | 6      | name.com            |
+| commonground.holiday | available | $9.99     | —             | 74             | 28     | 13     | name.com            |
+| weddings.holiday     | premium   | $118.80   | $118.80       | 64             | 18     | 8      | namesilo            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,571-row public sample | 9,570 live domains                               |
+| 1,000-row public sample | 11,985 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOLIDAY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOLIDAY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
