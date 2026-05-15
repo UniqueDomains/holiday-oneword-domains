@@ -400,7 +400,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 222331a8-6b0f-445a-8f90-ccea16761f60,hangon.holiday,available,9.99,,82,6,7,name.com,,
 2224c04b-d6a4-4d2b-878a-8996e91644bc,CountriesinAsia.holiday,available,9.99,,48,1,17,name.com,,
 2224f74a-cee8-4b73-aab2-5dcef43f7a84,costprice.holiday,available,9.99,,70,4,10,name.com,,
-22281d50-fbfb-4991-8342-c9e31aff8f8c,SouthAmerican.holiday,available,81.98,,66,10,14,namecheap,,
+22281d50-fbfb-4991-8342-c9e31aff8f8c,SouthAmerican.holiday,available,81.98,,66,3,14,namecheap,,
 2230dcc4-2777-4fd2-b901-2d7bf2a6385f,YankeeDoodle.holiday,available,81.98,,63,2,13,namecheap,,
 2244a3bc-9fd1-40fb-b202-cbfa5e06d6fc,thirdyear.holiday,available,9.99,,66,1,10,name.com,,
 225b751b-795a-42a7-bc3b-ed4b33e3a7de,houses.holiday,available,9.99,,66,18,6,name.com,,
