@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .holiday one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,535 domains · **Median ask:** $18.50 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/holiday`  
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | solutions.holiday | premium   | $123.75   | —             | 56             | 31     | 9      | name.com            |
 | spectra.holiday   | available | $9.99     | —             | 62             | 34     | 7      | name.com            |
 | shops.holiday     | premium   | $500      | —             | 64             | 24     | 5      | name.com            |
-| etc.holiday       | available | $9.99     | —             | 58             | 34     | 3      | name.com            |
+| etc.holiday       | available | $9.99     | —             | 58             | 32     | 3      | name.com            |
 | holidays.holiday  | premium   | $500      | —             | 78             | 23     | 8      | name.com            |
 | William.holiday   | available | $81.98    | —             | 74             | 31     | 7      | namecheap           |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOLIDAY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOLIDAY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
