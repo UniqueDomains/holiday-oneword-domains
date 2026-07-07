@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .holiday one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,535 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,535 domains · **Median ask:** $18.50 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,535 domains · **Median ask:** $15.33 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/holiday`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/holiday`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HOLIDAY one-word doma
 
 ### Files
 
-- `holiday.csv` — public CSV extract (1,000 rows)
-- `holiday.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `holiday.csv`, public CSV extract (1,000 rows)
+- `holiday.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| Acup.holiday      | available | $81.98    | —             | 80             | 5      | 5      | namecheap           |
-| Trex.holiday      | available | $81.98    | —             | 80             | 24     | 5      | namecheap           |
-| WiFi.holiday      | available | $81.98    | —             | 83             | 37     | 5      | namecheap           |
-| barup.holiday     | available | $9.99     | —             | 82             | 2      | 6      | name.com            |
-| geton.holiday     | available | $9.99     | —             | 82             | 10     | 6      | name.com            |
-| gearup.holiday    | available | $9.99     | —             | 80             | 16     | 7      | name.com            |
-| hangon.holiday    | available | $9.99     | —             | 82             | 6      | 7      | name.com            |
-| leaveon.holiday   | available | $9.99     | —             | 80             | 1      | 8      | name.com            |
-| prompts.holiday   | available | $9.99     | —             | 54             | 39     | 7      | name.com            |
-| net.holiday       | resell    | —         | —             | 76             | 55     | 3      | Dynadot Inc         |
-| jobs.holiday      | premium   | $123.75   | —             | 79             | 42     | 4      | name.com            |
-| Books.holiday     | resell    | —         | —             | 52             | 49     | 5      | united-domains GmbH |
-| homes.holiday     | premium   | $250      | —             | 86             | 34     | 5      | name.com            |
-| tokens.holiday    | available | $9.99     | —             | 51             | 36     | 6      | name.com            |
-| solutions.holiday | premium   | $123.75   | —             | 56             | 31     | 9      | name.com            |
-| spectra.holiday   | available | $9.99     | —             | 62             | 34     | 7      | name.com            |
-| shops.holiday     | premium   | $500      | —             | 64             | 24     | 5      | name.com            |
-| etc.holiday       | available | $9.99     | —             | 58             | 32     | 3      | name.com            |
-| holidays.holiday  | premium   | $500      | —             | 78             | 23     | 8      | name.com            |
-| William.holiday   | available | $81.98    | —             | 74             | 31     | 7      | namecheap           |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| ADS.holiday     | available | $9.99     | —             | high           | medium | 3      | name.com                                    |
+| happy.holiday   | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                            |
+| let.holiday     | premium   | $500      | —             | high           | low    | 3      | name.com                                    |
+| apt.holiday     | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
+| short.holiday   | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC                                |
+| tel.holiday     | premium   | $500      | —             | medium         | low    | 3      | name.com                                    |
+| bus.holiday     | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
+| super.holiday   | resell    | —         | —             | medium         | medium | 5      | 1API GmbH                                   |
+| city.holiday    | premium   | $242      | $242          | high           | medium | 4      | namesilo                                    |
+| cue.holiday     | available | $9.99     | —             | medium         | low    | 3      | name.com                                    |
+| indian.holiday  | resell    | —         | —             | high           | low    | 6      | Porkbun LLC                                 |
+| july.holiday    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                    |
+| dad.holiday     | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
+| seattle.holiday | resell    | —         | —             | high           | low    | 7      | GoDaddy Online Services Cayman Islands Ltd. |
+| kiev.holiday    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                    |
+| did.holiday     | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
+| nice.holiday    | premium   | $250      | $250          | high           | medium | 4      | name.com                                    |
+| ear.holiday     | available | $9.99     | —             | high           | low    | 3      | name.com                                    |
+| rail.holiday    | premium   | $500      | —             | high           | low    | 4      | name.com                                    |
+| fix.holiday     | available | $9.99     | —             | medium         | low    | 3      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .holiday domains. That makes it more niche than mainstream extensions, so the strongest options usually pair a highly legible word with a clear travel, leisure, seasonal, or promotion angle. Names such as tips.holiday or finals.holiday are direct and category-led, while WiFi.holiday or jewels.holiday are more concept-driven. When comparing these domains, start with exact word clarity, then test whether the term feels natural with .holiday. After that, check price discipline against the median ask of 18.51 and confirm the renewal profile is acceptable before treating a name as truly ownable now.
+This set covers 12,535 one-word names built on the .holiday extension, from everyday phrases like dogsit.holiday and playin.holiday to niche picks such as solarenergy.holiday and roastbeef.holiday. The median ask sits near $15, keeping most names within reach for quick acquisition. For founders, the appeal is a short, memorable domain that's ownable now without a long naming process. For investors, the extension's broad word coverage and low entry price create room to build a themed portfolio and compare pricing across many one-word options.
 
-- Prefer words that read naturally with .holiday
-- Use price discipline around the 18.51 median ask
-- Avoid terms that feel forced or context-light
-- Check renewal fit before treating a name as ownable
+- 12,535 one-word .holiday domains, updated daily
+- Median ask near $15 across the set
+- Brandable single words, ownable now for founders
+- Wide word coverage aids TLD-focused investor research
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOLIDAY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOLIDAY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
