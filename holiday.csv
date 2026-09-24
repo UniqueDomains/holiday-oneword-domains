@@ -10,7 +10,7 @@ d51793a9-aef2-4734-a0b4-df603da8b55e,knot.holiday,available,9.99,,high,low,4,nam
 aeceff07-c235-44b1-8ae6-9a66aeaeb1e7,seaside.holiday,premium,118.8,118.8,high,low,7,namesilo,,,
 fdcc3354-2a18-4566-a604-12eec17c0831,whitesauce.holiday,available,9.99,,low,low,11,name.com,,,
 5ef11d17-9083-4909-b974-37ee877d1065,bucket.holiday,available,9.99,,medium,low,6,name.com,,,
-ef8a1821-f341-44b9-a4c0-fad6557fd68e,curse.holiday,available,9.99,83.99,high,low,5,name.com,,,
+ef8a1821-f341-44b9-a4c0-fad6557fd68e,curse.holiday,available,64.99,64.99,low,low,5,namesilo,,,24/09/2026 04:27
 64f8e82d-6f57-43c0-9b78-e92639784abd,laura.holiday,available,9.99,,high,low,5,name.com,,,
 2b693269-e5f2-4220-8d4f-af746934c9a7,need.holiday,available,9.99,,high,low,4,name.com,,,
 1bf7af83-b36e-4fb7-b587-522c1f11f0ba,laurelandhardy.holiday,available,9.99,,medium,low,16,name.com,,,
@@ -22,7 +22,7 @@ fc8ec5c6-d761-4f11-89a9-f5f085379dc5,implying.holiday,available,9.99,,medium,low
 739152f8-5d49-43af-9ef9-31887be119c5,newspaper.holiday,available,9.99,,high,low,9,name.com,,,
 8b1bfa87-b564-446f-a0e0-f16095b8d326,brow.holiday,available,9.99,,medium,low,4,name.com,,,
 49a517d1-ad37-4f1a-ad82-aca6f38c05c8,boxers.holiday,available,9.99,,high,low,6,name.com,,,
-af90767a-1750-42cf-8d44-fe8cb3c9e668,confusing.holiday,available,9.99,83.99,medium,low,9,name.com,,,
+af90767a-1750-42cf-8d44-fe8cb3c9e668,confusing.holiday,available,67.98,81.98,low,low,9,namecheap,,,23/09/2026 20:14
 71092ffc-0aa2-4b4a-8b2f-2d9a5796dec0,hotpepper.holiday,available,9.99,,high,low,10,name.com,,,
 ab19eb0f-b667-4a93-83a6-27e2982853d6,yearbook.holiday,available,9.99,,high,low,8,name.com,,,
 784bc541-9e95-49d8-956e-059dc51a0bee,oregon.holiday,available,9.99,,medium,low,6,name.com,,,
@@ -191,7 +191,7 @@ e336817b-a046-4e90-969e-ee02ee869eae,bucolic.holiday,available,9.99,83.99,low,lo
 315d7c09-c841-43d8-af22-1caa600f0f8b,rhiannon.holiday,available,9.99,,high,low,8,name.com,,,
 4d45267a-7c77-4830-a23d-248448f41aaa,scratched.holiday,available,9.99,,medium,low,9,name.com,,,
 ef61ef34-91a0-4852-a1e0-f7a558b1fc8b,blocked.holiday,available,64.99,64.99,low,low,7,namesilo,,,22/09/2026 22:08
-f73d929f-1248-4816-8284-724c65600398,contented.holiday,available,9.99,83.99,high,low,9,name.com,,,
+f73d929f-1248-4816-8284-724c65600398,contented.holiday,available,64.99,64.99,medium,low,9,namesilo,,,23/09/2026 21:58
 667adaa6-52a8-4637-bf5b-8cddb3e17164,picked.holiday,available,9.99,,high,low,6,name.com,,,
 259a70b0-b391-46a8-89d7-909b4a0b5c9f,league.holiday,available,9.99,,medium,low,6,name.com,,,
 5f978997-0c2b-4da8-a9bf-cc13d8182eaa,showed.holiday,available,9.99,,low,low,6,name.com,,,
@@ -212,7 +212,7 @@ d069b14d-e382-42dc-a087-e979f3330293,landscape.holiday,available,9.99,,high,low,
 ec83e859-af1b-40ca-86e4-319f642390a6,sight.holiday,available,9.99,,high,low,5,name.com,,,
 de2616fe-855f-4708-82ff-9a38f486a939,somesing.holiday,available,9.99,,medium,low,8,name.com,,,
 7a06c77a-ed4e-4f9d-8cca-a4988145e3ed,scummy.holiday,available,9.99,83.99,low,low,6,name.com,,,
-31501d7a-18fa-41de-b850-cee372e25168,large.holiday,available,64.99,64.99,medium,low,5,namesilo,,,19/09/2026 10:18
+31501d7a-18fa-41de-b850-cee372e25168,large.holiday,available,64.99,64.99,medium,low,5,namesilo,,,23/09/2026 09:13
 787372da-b644-4c14-a016-360776c0e66e,onehundred.holiday,available,9.99,,low,low,11,name.com,,,
 2b1d9f85-c43a-450d-9cb0-3cb7ee4ffa52,screwabout.holiday,available,9.99,,low,low,11,name.com,,,
 0c6221f6-ee0f-43e3-bf41-98e046f95808,warofwords.holiday,available,9.99,,low,low,12,name.com,,,
@@ -256,7 +256,7 @@ f8241d2a-7517-4388-a5a6-4cbfbc5c8756,unacceptable.holiday,available,9.99,,high,l
 165f4a8e-5244-4ce5-a458-403fc49ece10,lol.holiday,available,9.99,,high,low,3,name.com,,,
 bbd53c35-808b-4458-b572-2ee2d839a1ce,aspirin.holiday,available,,,high,low,7,,,,
 5edcefb1-6b0e-449f-96bd-b188d821188c,load.holiday,available,67.98,81.98,low,low,4,namecheap,,,21/09/2026 20:07
-26617b71-574d-480b-8331-97010e526f1b,sideways.holiday,available,9.99,83.99,high,low,8,name.com,,,
+26617b71-574d-480b-8331-97010e526f1b,sideways.holiday,available,64.99,64.99,low,low,8,namesilo,,,24/09/2026 01:14
 49c15c64-871d-4e6d-b748-c1c1cf9d4e0a,pad.holiday,available,9.99,,medium,low,3,name.com,,,
 5590cd23-e887-4c75-a1b6-d57f829b3a54,disco.holiday,available,9.99,,high,low,5,name.com,,,
 4fe6122f-016a-406e-b7f6-554b3db8b680,freeway.holiday,available,9.99,,high,low,7,name.com,,,
@@ -285,7 +285,7 @@ b6886c7a-f27c-494b-b474-268378ce8cb7,backwards.holiday,available,64.99,64.99,low
 989ff838-b601-43c4-8b71-5631a175258b,lxviii.holiday,available,9.99,83.99,low,low,6,name.com,,,
 f588beed-6bf8-4712-aac2-12544139eeee,techweek.holiday,available,9.99,,medium,low,9,name.com,,,
 6b7e4ba4-5b3e-4350-8240-50e43a019b96,anaglyptic.holiday,available,9.99,83.99,low,low,10,name.com,,,
-964c05c1-9c23-4c17-b1fb-25e7fc47037b,casual.holiday,available,9.99,,high,low,6,name.com,,,
+964c05c1-9c23-4c17-b1fb-25e7fc47037b,casual.holiday,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 13:14
 5a539f6e-7fc1-45e6-ad56-eb65619e4ead,luckystreak.holiday,available,9.99,,high,low,12,name.com,,,
 4da42f49-5b7d-447f-8e24-7f8188c10f98,befuddled.holiday,available,9.99,83.99,low,low,9,name.com,,,07/08/2026 11:41
 38162fe7-0915-41ac-bc76-2d7288a6551a,deepdown.holiday,available,9.99,,medium,low,9,name.com,,,
@@ -296,9 +296,8 @@ f588beed-6bf8-4712-aac2-12544139eeee,techweek.holiday,available,9.99,,medium,low
 95d3c46e-3357-4063-9afb-8874d07a3ee3,whale.holiday,available,9.99,,medium,low,5,name.com,,,
 5c50e325-c6f6-4b74-a3ec-57610cdd8cc8,inthethickof.holiday,available,9.99,,medium,low,15,name.com,,,
 99d15d58-7fe6-4caa-9e50-9346d22e1175,nutty.holiday,available,9.99,83.99,low,low,5,name.com,,,06/08/2026 21:27
-fda6e46e-519a-4f84-8809-bee5908243c3,consuming.holiday,available,9.99,83.99,high,low,9,name.com,,,
+fda6e46e-519a-4f84-8809-bee5908243c3,consuming.holiday,available,67.98,81.98,low,low,9,namecheap,,,23/09/2026 21:22
 d89f5313-c428-45f0-bbf8-0981ae87330a,seen.holiday,available,9.99,,high,low,4,name.com,,,
-86b89c0f-8bc4-4712-9f7b-2f6049a29656,converse.holiday,available,,,medium,high,8,,,,
 848fa16f-1754-41b0-b9b9-fe068bd555f6,acetylenic.holiday,available,9.99,83.99,low,low,10,name.com,,,
 f8648e3b-f860-4a0b-a48c-1a000b0d0408,possess.holiday,available,9.99,,high,low,7,name.com,,,
 9755116a-e6ab-4493-9877-1909d9c82840,bedewed.holiday,available,9.99,83.99,low,low,7,name.com,,,09/08/2026 06:46
@@ -337,7 +336,7 @@ c2d391f3-025e-4736-83a3-e0ec5479f317,allowed.holiday,available,9.99,,high,low,7,
 ed969c03-719b-493b-83fc-851001ce4e50,nomnomnom.holiday,available,9.99,,high,low,11,name.com,,,
 9302021f-3719-4506-b6af-c7d30e19bfef,truly.holiday,available,9.99,,high,low,5,name.com,,,
 6534d6e6-9fda-4972-8e50-e039fef801a8,badly.holiday,available,64.99,64.99,low,low,5,namesilo,,,22/09/2026 16:07
-df560b49-0a92-4717-a770-2b6b39d7708e,cheesy.holiday,available,9.99,,medium,low,6,name.com,,,
+df560b49-0a92-4717-a770-2b6b39d7708e,cheesy.holiday,available,67.98,81.98,low,low,6,namecheap,,,23/09/2026 11:13
 216a46ec-8031-4207-825e-0caf0e2ce8e3,basifixed.holiday,available,9.99,83.99,low,low,9,name.com,,,08/08/2026 22:11
 da84a98e-dfdb-400c-98b4-ddf1bbe86077,victor.holiday,available,,,medium,low,6,,,,
 439c1480-6352-42ec-9ee5-d1d50469d2b6,actinon.holiday,available,9.99,83.99,low,low,7,name.com,,,
@@ -347,7 +346,7 @@ fd027450-23b0-408f-a9f0-0cd875fb2fd0,chocolatetruffle.holiday,available,9.99,,hi
 75db450c-aa8b-48be-acd5-ad251aeca910,antidromic.holiday,available,9.99,83.99,low,low,10,name.com,,,
 7e557b55-581f-48c8-9457-3a1c0b44f309,adjunct.holiday,available,9.99,83.99,low,low,7,name.com,,,
 f4e423ed-018f-4eda-8282-3bcf5c19a22d,condom.holiday,available,9.99,,high,low,6,name.com,,,
-8b3927b4-fa8c-4c35-b04d-69dca237ae3c,realised.holiday,available,9.99,83.99,high,low,8,name.com,,,
+8b3927b4-fa8c-4c35-b04d-69dca237ae3c,realised.holiday,available,64.99,64.99,medium,low,8,namesilo,,,23/09/2026 17:33
 55fdbe1b-ee25-4aff-b1ea-011fce62818a,cue.holiday,available,9.99,,medium,low,3,name.com,,,
 954a8817-de55-499c-8e43-4d2a06455252,yellowcake.holiday,available,9.99,,low,low,11,name.com,,,
 9e9ec369-9fbf-4e03-9364-62b6659d2b4c,riding.holiday,available,9.99,,high,low,6,name.com,,,
@@ -395,7 +394,7 @@ cede1e46-ca56-4632-b136-e04b0cfb5f30,abbatial.holiday,available,9.99,83.99,low,l
 4075d98d-38d3-4112-a4b3-809d33a39960,legion.holiday,available,9.99,,high,low,6,name.com,,,
 cc7966f2-c4d1-4bb7-b781-50a282859f1e,putup.holiday,available,9.99,,high,low,6,name.com,,,
 cedfd07a-ea9a-4a94-baf5-e84b577a3e9d,prepacked.holiday,available,9.99,,medium,low,9,name.com,,,
-1468dac8-d89d-447f-80d9-b7f6521a7c35,completing.holiday,available,9.99,83.99,medium,low,10,name.com,,,
+1468dac8-d89d-447f-80d9-b7f6521a7c35,completing.holiday,available,64.99,64.99,low,low,10,namesilo,,,23/09/2026 17:20
 10d62738-1e44-4392-a343-4adc18ebcde8,discount.holiday,premium,242,242,high,low,8,namesilo,,,
 d529e7f3-e8fc-4617-b8fd-21e52ffbf49a,austere.holiday,available,64.99,64.99,low,low,7,namesilo,,,22/09/2026 13:15
 881b10c1-1088-4deb-b461-40d083603eb7,attempted.holiday,available,9.99,83.99,low,low,9,name.com,,,07/08/2026 15:12
@@ -472,7 +471,7 @@ e001b711-524f-48c9-b30a-3c343e45ad25,deskchair.holiday,available,9.99,,high,low,
 9ea1e404-2d92-417c-af8e-215e642bf9b4,onbase.holiday,available,64.99,64.99,low,low,7,namesilo,,,15/09/2026 17:31
 903bae2e-f1c9-4e7c-a10f-9d80decbfa54,congregation.holiday,available,9.99,,high,low,12,name.com,,,
 8aa90e10-183a-4baf-994e-e0af4c5baa3b,pull.holiday,available,9.99,,high,low,4,name.com,,,
-aa2331e2-df05-43dd-bb22-2218c274a16d,component.holiday,available,9.99,83.99,high,low,9,name.com,,,
+aa2331e2-df05-43dd-bb22-2218c274a16d,component.holiday,available,67.98,81.98,medium,low,9,namecheap,,,23/09/2026 20:58
 45f88315-92f2-459c-bc8e-5ac42804453e,cherryontop.holiday,available,9.99,,high,low,13,name.com,,,
 364b5d9e-9a8e-4b36-b362-465ad63f32bc,usbdrive.holiday,available,9.99,,high,low,9,name.com,,,
 c27603d9-d3a5-403e-b769-6f8249597408,glitter.holiday,available,9.99,,high,low,7,name.com,,,
@@ -495,7 +494,7 @@ a12429bc-b371-4572-b31e-799b8834751d,godmode.holiday,available,9.99,,high,low,8,
 89448ff6-1982-41d5-8700-aa97c9970baf,actiongame.holiday,available,9.99,,high,low,11,name.com,,,
 7d210bf3-0953-4348-ad21-3c63d519ca67,apt.holiday,available,64.99,64.99,low,low,3,namesilo,,,22/09/2026 07:23
 aa0eca87-e5ee-40dd-978c-e15a3b1bdf59,listenin.holiday,available,9.99,,medium,low,9,name.com,,,
-41e4ac5b-8e07-48e0-a117-85dc69b5b502,finale.holiday,available,9.99,,high,low,6,name.com,,,
+41e4ac5b-8e07-48e0-a117-85dc69b5b502,finale.holiday,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 14:46
 48801bfb-cedc-499c-9ac8-5222c73c841d,hydroponic.holiday,available,9.99,83.99,low,low,10,name.com,,,06/08/2026 10:34
 62efff64-2b59-4ed8-965e-cd869b7466d6,hawaii.holiday,premium,500,,high,low,6,name.com,,,
 e2e9d982-bf46-4265-bd82-2de15babb164,thoseones.holiday,available,9.99,,low,low,10,name.com,,,
@@ -542,7 +541,7 @@ a40492dc-e7b4-459d-8c76-6bafb07ccb20,masculine.holiday,available,9.99,,high,low,
 ef516deb-816e-4306-913a-67bbf1699aa8,inlovewith.holiday,available,9.99,,medium,low,12,name.com,,,
 87d7d8ea-a806-4f37-8d60-b4e58d57d65d,keen.holiday,available,67.98,81.98,low,low,4,namecheap,,,22/09/2026 16:55
 fe292e21-17b9-4513-a772-db05adb8ced7,goback.holiday,available,9.99,,high,low,7,name.com,,,
-ea462489-2542-42ae-aea9-abb6cf27408c,material.holiday,available,9.99,83.99,high,low,8,name.com,,,
+ea462489-2542-42ae-aea9-abb6cf27408c,material.holiday,available,64.99,64.99,medium,low,8,namesilo,,,23/09/2026 23:27
 fd764a12-db62-4363-b4ad-85b3900013cc,justabout.holiday,available,64.99,64.99,low,low,10,namesilo,,,21/09/2026 14:09
 5eda870c-d2b8-43aa-83d8-bd719c0b2520,marchon.holiday,available,67.98,81.98,low,low,8,namecheap,,,21/09/2026 20:39
 48663d68-068f-4976-be15-10a2a072b1eb,invisible.holiday,available,9.99,,high,low,9,name.com,,,
@@ -569,7 +568,7 @@ c743d069-bf58-4ea6-82e1-946c79358b81,recommend.holiday,available,9.99,,high,low,
 c1299220-a537-4372-9259-5ab9d876d745,backup.holiday,available,64.99,64.99,medium,low,6,namesilo,,,20/09/2026 03:14
 1625eadc-3c3b-47b5-b470-0dab220100ea,avenged.holiday,available,9.99,83.99,low,low,7,name.com,,,07/08/2026 22:35
 d5fe9e84-1765-4c14-9078-3842cdda85b8,could.holiday,available,9.99,,high,low,5,name.com,,,
-8eebfebe-8af0-4cf0-9a7e-c7d7249ee401,idiotic.holiday,available,9.99,83.99,medium,low,7,name.com,,,
+8eebfebe-8af0-4cf0-9a7e-c7d7249ee401,idiotic.holiday,available,64.99,64.99,low,low,7,namesilo,,,24/09/2026 01:17
 eaa2cc5d-777c-4524-91f8-6fc5d9bd5c96,justyet.holiday,available,9.99,,medium,low,8,name.com,,,
 1bf1b813-3582-470c-96ed-b17455cd8bfa,allright.holiday,available,64.99,64.99,medium,low,9,namesilo,,,22/09/2026 01:00
 99ea63ae-3b2e-4060-8278-0773c164163e,quizbowl.holiday,available,9.99,,low,low,9,name.com,,,
@@ -595,8 +594,8 @@ cd3a28be-fc11-4aa1-835c-aa64596a6774,butthenagain.holiday,available,9.99,,medium
 6b8590c2-8847-4d67-8154-1f320a0d8d6f,barren.holiday,available,9.99,83.99,low,low,6,name.com,,,08/08/2026 20:57
 8a0caae3-552a-4b75-9c0e-b3e568f2aa18,goodfriday.holiday,available,9.99,,medium,low,11,name.com,,,
 0497ed3f-c699-4a81-a597-f80310e273c9,barytone.holiday,available,9.99,83.99,low,low,8,name.com,,,08/08/2026 19:41
-085feb26-c5c6-4f4e-b5cb-30ef1177311f,communal.holiday,available,9.99,,medium,low,8,name.com,,,
-6d5d1b88-ccb0-4aa7-bc97-90a37449fbb0,halt.holiday,available,9.99,83.99,medium,low,4,name.com,,,
+085feb26-c5c6-4f4e-b5cb-30ef1177311f,communal.holiday,available,64.99,64.99,low,low,8,namesilo,,,23/09/2026 16:10
+6d5d1b88-ccb0-4aa7-bc97-90a37449fbb0,halt.holiday,available,64.99,64.99,medium,low,4,namesilo,,,24/09/2026 01:49
 7ab9e438-9bd9-4206-9216-051a6381a462,howyousay.holiday,available,9.99,,medium,low,11,name.com,,,
 8edda6c0-9ee7-4a88-9486-edaa3ff2512a,aftuh.holiday,available,9.99,,medium,low,5,name.com,,,
 0a5d3038-7b37-4b5c-a93a-f0184a57d747,sextet.holiday,available,9.99,83.99,low,low,6,name.com,,,
@@ -617,7 +616,7 @@ e9cebcdd-6655-4676-bd77-ae64ca59cda6,flowerbox.holiday,available,9.99,,high,low,
 ecc14d19-432c-4eb4-bee0-9c60861354f8,heartattack.holiday,available,9.99,,medium,low,12,name.com,,,
 97d91c6d-9014-4d7f-a540-768090c62a6f,forecloser.holiday,available,9.99,,medium,low,10,name.com,,,
 687d4f1d-79f4-4ed5-a858-8bed74be847c,entranceexamination.holiday,available,9.99,,medium,low,20,name.com,,,
-d085e9ee-dff9-4d0f-befd-23d2e4bccc83,nice.holiday,premium,250,250,high,medium,4,name.com,,,
+d085e9ee-dff9-4d0f-befd-23d2e4bccc83,nice.holiday,premium,242,242,medium,low,4,namesilo,,,24/09/2026 00:45
 3340b3cc-e5cc-408b-b736-277f74ed9530,trivial.holiday,available,9.99,,high,low,7,name.com,,,
 0ae03ffc-55e4-4f60-a66c-43b0f0732858,onemillion.holiday,available,9.99,,low,low,11,name.com,,,
 b1177026-ec3c-48df-9144-ee5ea4324779,panasonic.holiday,available,,,high,low,9,,,,
@@ -629,11 +628,11 @@ d274352e-d2c4-48cf-a899-5d6018c60578,robotlike.holiday,available,9.99,83.99,low,
 923e18a5-3eb7-4a3d-9ac7-94ef3e49771e,standto.holiday,available,9.99,,low,low,8,name.com,,,
 63e12e48-bd72-475b-891a-c1836dc6344b,political.holiday,available,9.99,,high,low,9,name.com,,,
 0e8eb62c-7989-4389-a6c6-b3aad969fa5a,yubacity.holiday,available,9.99,,low,low,9,name.com,,,
-a34c9d53-518e-41be-ae52-a5cab38d889e,correlate.holiday,available,9.99,83.99,high,low,9,name.com,,,
+a34c9d53-518e-41be-ae52-a5cab38d889e,correlate.holiday,available,64.99,64.99,medium,low,9,namesilo,,,23/09/2026 23:49
 9a4d0d95-d022-4d2c-aa60-751bcd9acc59,anginose.holiday,available,9.99,83.99,low,low,8,name.com,,,
 a1a8abe4-9dec-4fab-b68f-2bcc67613feb,wording.holiday,available,9.99,,high,low,7,name.com,,,
 dc072223-4d96-4c38-b324-f025cf2492d8,oddmanwins.holiday,available,9.99,,low,low,12,name.com,,,
-c5831c11-1e0d-4fae-8db4-35028911648b,covert.holiday,available,9.99,83.99,medium,low,6,name.com,,,
+c5831c11-1e0d-4fae-8db4-35028911648b,covert.holiday,available,64.99,64.99,low,low,6,namesilo,,,24/09/2026 00:53
 8765e988-875c-4d9f-8d0c-fcda92323ce9,somehow.holiday,available,9.99,,medium,low,7,name.com,,,
 6938da01-d0af-46aa-bab6-6000b7a5b0aa,checkin.holiday,available,9.99,,medium,low,8,name.com,,,
 6d51ee1b-f1ad-43cc-87e1-691f08d5dea5,nowhile.holiday,available,9.99,,low,low,8,name.com,,,
@@ -674,7 +673,7 @@ ccc98664-7b3e-4be2-a964-083ac16e424f,lxxx.holiday,available,9.99,83.99,low,low,4
 b66c396b-fa5e-4499-9aea-0d7b7f6bc31a,antiblack.holiday,available,9.99,83.99,low,low,9,name.com,,,
 40053f0e-ef20-4303-bc4f-cd7a9232d75f,making.holiday,available,9.99,,high,low,6,name.com,,,
 1968aa5f-57e0-43ff-a1d6-c10e2ba21603,unemployment.holiday,available,9.99,,low,low,12,name.com,,,
-97d3b065-263e-4bc9-89c1-564961551d30,snack.holiday,available,67.98,81.98,medium,low,5,namecheap,,,19/09/2026 10:58
+97d3b065-263e-4bc9-89c1-564961551d30,snack.holiday,available,67.98,81.98,medium,low,5,namecheap,,,23/09/2026 08:31
 bf27428f-bd7d-426f-a839-2a5c671f65ac,coalesced.holiday,available,9.99,83.99,low,low,9,name.com,,,
 77f3d9f6-8dd4-4d9f-a63e-a9c882d2ba85,intheraw.holiday,available,64.99,64.99,low,low,10,namesilo,,,16/09/2026 08:01
 2737f529-eba1-4abb-bce9-1d208241b3e9,knockover.holiday,available,9.99,,medium,low,10,name.com,,,
@@ -722,7 +721,7 @@ c8e082e7-0179-48a0-b183-c923c4895526,condo.holiday,available,9.99,,high,low,5,na
 36b3394b-9834-4591-8311-4962691eae70,alittlebit.holiday,available,9.99,,medium,low,12,name.com,,,
 7a19ca3a-eda1-49ed-96c0-cff17a32e2c9,activistic.holiday,available,9.99,83.99,low,low,10,name.com,,,
 0bf7c98d-ce67-4e14-9601-2237617287df,demand.holiday,available,9.99,,high,low,6,name.com,,,
-e503bf28-f78b-4cdc-9d26-b4f07e4ac2d0,screen.holiday,available,64.99,64.99,low,low,6,namesilo,,,19/09/2026 13:37
+e503bf28-f78b-4cdc-9d26-b4f07e4ac2d0,screen.holiday,available,64.99,64.99,low,low,6,namesilo,,,23/09/2026 16:32
 aa0250f2-24ef-49a5-9675-d5d436974163,irritated.holiday,available,,,low,low,9,,,,
 533c5b92-9037-4f35-8806-933e654c2a7f,tentbed.holiday,available,9.99,,high,low,8,name.com,,,
 0086758c-e037-4856-aa75-a7db272399af,had.holiday,available,9.99,,high,low,3,name.com,,,
@@ -825,7 +824,7 @@ b1f7dca7-a5fc-4958-99df-b7b2c09f3e76,tradeunion.holiday,available,9.99,,low,low,
 d9ad2439-3f24-4351-a720-1dd1a5fcd3ab,redmeat.holiday,available,9.99,,low,low,8,name.com,,,
 78fe0da8-0165-4d76-95ed-f9bfda3450a7,birthday.holiday,premium,118.8,118.8,high,low,8,namesilo,,,
 c48dbce8-ef6c-45a1-8ecb-d63c283a8435,bendystraw.holiday,available,9.99,,high,low,11,name.com,,,
-6279f7c4-b6a6-49a4-8d87-bc70faf6d11c,forced.holiday,available,9.99,83.99,medium,low,6,name.com,,,
+6279f7c4-b6a6-49a4-8d87-bc70faf6d11c,forced.holiday,available,67.98,81.98,low,low,6,namecheap,,,23/09/2026 21:10
 fb60b891-6d15-4439-a483-be6e6a38b738,adam.holiday,available,,,medium,low,4,,,,
 2a3627b7-281d-484c-8a9b-8a73fb9e3d72,advert.holiday,available,9.99,,high,low,6,name.com,,,
 e20a2475-0c80-4b58-bbbe-eb32319aa005,wordis.holiday,available,9.99,,low,low,7,name.com,,,
@@ -849,7 +848,7 @@ ed0aa569-7b2e-442f-a599-39b9ef4d550b,travelagency.holiday,available,9.99,,high,l
 80eb0076-174a-449d-a43e-20c77d4df86d,alchemic.holiday,available,9.99,83.99,low,low,8,name.com,,,
 54c660d3-6ae7-4779-8aa7-4272385c2b64,perspective.holiday,available,9.99,,high,low,11,name.com,,,
 101e2c03-9280-46f8-8b89-1b7f9c1f7736,allover.holiday,available,,,medium,low,8,,,,
-e07828f4-52e9-487d-a3bb-77974e5327ba,pastrychef.holiday,available,67.98,81.98,medium,low,11,namecheap,,,19/09/2026 03:45
+e07828f4-52e9-487d-a3bb-77974e5327ba,pastrychef.holiday,available,64.99,64.99,medium,low,11,namesilo,,,23/09/2026 09:00
 0fa81b84-9205-46a0-9194-70de073ebb25,planetarium.holiday,available,9.99,,medium,low,11,name.com,,,
 65bf07f0-7a91-4b22-be6c-4d1f8fa37be1,spiritual.holiday,available,9.99,83.99,medium,low,9,name.com,,,06/08/2026 05:42
 1c851a04-5927-4172-a3ce-55ed00624d93,jay.holiday,available,9.99,,medium,low,3,name.com,,,
@@ -871,7 +870,7 @@ fed32e9e-6a71-4ae1-b84a-7708f14bd8b5,ambulatory.holiday,available,9.99,83.99,low
 29aa1aab-f0b4-47d8-bfdf-ed28a6fe5106,bus.holiday,available,9.99,,high,low,3,name.com,,,
 ddef75e4-c742-43bd-9faf-b5d1bd4f4dff,laborer.holiday,available,9.99,,medium,low,7,name.com,,,
 f1d50ffe-ea35-4086-94f0-6e79f3e434be,modelling.holiday,available,9.99,,high,low,9,name.com,,,
-f1ba8515-41aa-461c-9ec1-3bed45f120a5,marketing.holiday,premium,118.8,118.8,medium,low,9,namesilo,,,19/09/2026 13:53
+f1ba8515-41aa-461c-9ec1-3bed45f120a5,marketing.holiday,premium,118.8,118.8,medium,low,9,namesilo,,,23/09/2026 16:46
 a7cac507-5b58-407b-970f-719829ee790b,whitepepper.holiday,available,9.99,,low,low,12,name.com,,,
 bc501d3d-3276-43c4-9f02-bafd92e4977e,algometric.holiday,available,9.99,83.99,low,low,10,name.com,,,
 e24658bd-564d-4433-8e0d-8d96b030e805,breakeven.holiday,available,9.99,,high,low,10,name.com,,,
@@ -932,7 +931,7 @@ e2bc0a60-2560-4168-b35a-c29a11947ba4,chore.holiday,available,9.99,,high,low,5,na
 e06cbf58-7924-4442-ba2a-ed2490308596,ohmygosh.holiday,available,9.99,,high,low,8,name.com,,,
 5e1c3c84-e8ab-4e93-bb69-8fafa082ac93,ruby.holiday,available,64.99,64.99,medium,low,4,namesilo,,,22/09/2026 22:32
 8f655b9c-effc-49de-97d5-00d6cc82d4ba,kindof.holiday,available,9.99,,medium,low,7,name.com,,,
-4aefc7e2-ee95-4811-a64d-f3eab1d6f44e,contracted.holiday,available,9.99,83.99,medium,low,10,name.com,,,
+4aefc7e2-ee95-4811-a64d-f3eab1d6f44e,contracted.holiday,available,64.99,64.99,low,low,10,namesilo,,,23/09/2026 22:26
 6c51b9ae-e3fd-4cd1-9700-2c195330afef,network.holiday,available,64.99,64.99,low,low,7,namesilo,,,23/09/2026 02:58
 62f7e000-3717-49a5-b5b5-bf23dd30e0f1,aplanatic.holiday,available,9.99,83.99,low,low,9,name.com,,,06/08/2026 00:29
 d4d91c74-a90a-4ddd-92c8-8cd513125d60,tongue.holiday,available,9.99,,medium,low,6,name.com,,,
@@ -978,7 +977,7 @@ fd7528a6-f876-40cd-a3c8-306b35bfb2dd,detected.holiday,available,9.99,83.99,mediu
 b0eef412-1dee-4c45-8bd8-6c0bcec7c26a,success.holiday,available,9.99,,high,low,7,name.com,,,
 a49d2467-0407-49d2-92d1-29261ff2f465,vice.holiday,available,9.99,,medium,low,4,name.com,,,
 e4220af0-c046-48d0-9fc5-2da88aa7d049,augustan.holiday,available,9.99,83.99,low,low,8,name.com,,,07/08/2026 17:15
-e954af22-b017-4c03-b792-ee4d244abbd1,biology.holiday,available,9.99,,high,low,7,name.com,,,
+e954af22-b017-4c03-b792-ee4d244abbd1,biology.holiday,available,64.99,64.99,medium,low,7,namesilo,,,24/09/2026 02:45
 e27c9572-a225-42eb-a8ed-664babc23422,acned.holiday,available,9.99,83.99,low,low,5,name.com,,,
 f1faffae-2948-4fa7-90d2-f8324e4bf063,ing.holiday,available,9.99,,medium,low,3,name.com,,,
 4c3d3cfb-5bc5-4423-b768-07b16bb90d04,signlanguage.holiday,available,9.99,,medium,low,13,name.com,,,
@@ -999,3 +998,4 @@ e45d7e7d-8c69-481a-a620-7574f2751991,whatnow.holiday,available,9.99,,low,low,8,n
 4d96b743-bbb5-4cbe-bac2-a04a689ae6d3,advisable.holiday,available,9.99,83.99,low,low,9,name.com,,,
 fcc7ddc5-e64e-47f8-af14-c27b074e40b9,sloping.holiday,available,64.99,64.99,low,low,7,namesilo,,,08/09/2026 05:27
 223e1b28-143d-45dc-a2a9-3ef6b28ad508,worm.holiday,available,9.99,,medium,low,4,name.com,,,
+df28fa24-8225-4924-bcf7-a157b3f8da44,convincing.holiday,available,67.98,81.98,medium,low,10,namecheap,,,23/09/2026 22:56
