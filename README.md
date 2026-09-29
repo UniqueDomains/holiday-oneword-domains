@@ -1,10 +1,10 @@
-# Available .HOLIDAY One-Word Domains (24,558)
+# Available .HOLIDAY One-Word Domains (26,613)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C558%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C613%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .holiday one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,558 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,613 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,558 domains · **Median ask:** $44.73 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 26,613 domains · **Median ask:** $46.17 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/holiday`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| acc.holiday     | available | $64.99    | $64.99        | high           | low    | 3      | namesilo     |
-| bit.holiday     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC |
-| lake.holiday    | premium   | $242      | $242          | high           | low    | 4      | namesilo     |
-| ain.holiday     | available | $9.99     | $83.99        | high           | low    | 3      | name.com     |
-| xmas.holiday    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc  |
-| rome.holiday    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo     |
-| ari.holiday     | available | $51.95    | $51.95        | high           | medium | 3      | spaceship    |
-| blink.holiday   | premium   | $512      | $512          | high           | medium | 5      | namesilo     |
-| bob.holiday     | available | $64.99    | $64.99        | high           | medium | 3      | namesilo     |
-| shops.holiday   | premium   | $520      | $520          | high           | low    | 5      | namecheap    |
-| boy.holiday     | available | $9.99     | —             | high           | low    | 3      | name.com     |
-| custom.holiday  | premium   | $260      | $260          | high           | low    | 6      | namecheap    |
-| dad.holiday     | available | $9.99     | $83.99        | high           | low    | 3      | name.com     |
-| expert.holiday  | premium   | $414.20   | $414.20       | high           | low    | 6      | spaceship    |
-| due.holiday     | available | $64.99    | $64.99        | high           | low    | 3      | namesilo     |
-| mobile.holiday  | premium   | $128.70   | $128.70       | high           | medium | 6      | namecheap    |
-| fda.holiday     | available | $64.99    | $64.99        | high           | low    | 3      | namesilo     |
-| riyadh.holiday  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo     |
-| fis.holiday     | available | $50.20    | $50.20        | high           | low    | 3      | cloudflare   |
-| medical.holiday | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo     |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| chief.holiday      | available | $64.99    | $64.99        | high           | low    | 5      | namesilo     |
+| medical.holiday    | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo     |
+| wizard.holiday     | available | $67.98    | $81.98        | high           | medium | 6      | namecheap    |
+| intend.holiday     | available | $67.98    | $81.98        | high           | low    | 6      | namecheap    |
+| society.holiday    | available | $51.95    | $51.95        | high           | low    | 7      | spaceship    |
+| avocado.holiday    | available | $64.99    | $64.99        | high           | low    | 7      | namesilo     |
+| expert.holiday     | premium   | $414.20   | $414.20       | high           | low    | 6      | spaceship    |
+| textbook.holiday   | available | $64.99    | $64.99        | high           | low    | 8      | namesilo     |
+| integrated.holiday | available | $64.99    | $64.99        | high           | low    | 10     | namesilo     |
+| modal.holiday      | available | $67.98    | $81.98        | high           | low    | 5      | namecheap    |
+| attention.holiday  | available | $64.99    | $64.99        | high           | low    | 9      | namesilo     |
+| certain.holiday    | available | $9.99     | $83.99        | high           | low    | 7      | name.com     |
+| mobile.holiday     | premium   | $128.70   | $128.70       | high           | medium | 6      | namecheap    |
+| product.holiday    | available | $64.99    | $64.99        | high           | medium | 7      | namesilo     |
+| pot.holiday        | available | $67.98    | $81.98        | high           | low    | 3      | namecheap    |
+| kind.holiday       | available | $67.98    | $81.98        | high           | low    | 4      | namecheap    |
+| story.holiday      | available | $67.98    | $81.98        | high           | medium | 5      | namecheap    |
+| blink.holiday      | premium   | $512      | $512          | high           | medium | 5      | namesilo     |
+| range.holiday      | available | $51.95    | $51.95        | high           | low    | 5      | spaceship    |
+| bit.holiday        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,558 live domains                        |
+| 1,000-row public sample | 26,613 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOLIDAY One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOLIDAY One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
